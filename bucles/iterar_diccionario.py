@@ -14,4 +14,4 @@ for datos in diccionario.items():
     value = datos[1]
     print(f"la clave es: {key} y el valor es: {value}")
 
-print()
+
